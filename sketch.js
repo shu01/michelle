@@ -1,6 +1,6 @@
 var One = ["I","you","she","he","the","went","go","run","skip","saw","sang","jump","pick","sick","kick","walk","mock","love","skin","no","men","kill","bird","head","dead","woo","won","loss","eye","day"];
 var Two = ["secure","flower","fetish","clothing","baby","backpack","blanket","tennis","bucket","iPhone","using","jumping","design","washing","process","shoulder","leather","classic","letter","middle","fire","human"];
-var Three = ["directory","disestablish","indecisive","insoluble","mandatory","obligation","obviously","overwhelming","population","television","similitude"];
+var Three = ["procedure","decided","example","directly","important","consider","completely","advantage","agenda","mistaken","forgetful","exactly","iconic","nutrition","unweildy"];
 var Four = ["directory","disestablish","indecisive","insoluble","mandatory","obligation","obviously","overwhelming","population","television","similitude"];
 var Five = ["assimilation","conscientiousness","creativity","diagnostician","electricity","humiliation","mathematical","opportunity","popularity","similarity","incredulity","pediatrician","perpendicular","unbelievable","university"];
 var Six = ["personification","responsibility","revolutionary","identification","humanitarian"];
