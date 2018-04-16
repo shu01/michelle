@@ -27,7 +27,7 @@ function generate(numofSyl){
 		var ranSylNum = (Math.floor(Math.random() * SylLeft))+1;
 		var selWord = getWord(ranSylNum);
 		i += ranSylNum;
-		console.log(selWord);
+		console.log(selWord + ' ' + ranSylNum);
 		wordString.push(selWord);
 	}
 	return (wordString.join(" "));
